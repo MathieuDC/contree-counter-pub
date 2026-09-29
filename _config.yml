@@ -1,0 +1,6 @@
+# Site public de Contrée (GitHub Pages, dépôt MathieuDC/contree-counter-pub), publié par `mise run pages`.
+# Il ne contient que ce dossier, docs/confidentialite.md et docs/assistance.md : jamais le reste de docs/.
+title: Contrée
+description: Compteur de points de belote contrée pour iPhone
+lang: fr
+theme: jekyll-theme-primer
